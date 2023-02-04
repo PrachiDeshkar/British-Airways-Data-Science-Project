@@ -1,1 +1,5 @@
+Models used
 
+1) Decision Tree Classifier
+2) Random Forest
+3) Neural Networks

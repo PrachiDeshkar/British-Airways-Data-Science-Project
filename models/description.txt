@@ -1,5 +1,5 @@
 Models used
 
 1) Decision Tree Classifier
-2) Random Forest
+2) Random Forest (is not added due to its large size. Code available in 'Predictive Modelling.ipynb'.
 3) Neural Networks
